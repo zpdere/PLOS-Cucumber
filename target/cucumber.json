@@ -1,0 +1,243 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-03-03T03:58:19.732Z",
+        "line": 12,
+        "name": "Type of \"Publish with PLOS\" is present",
+        "description": "",
+        "id": "home;type-of-\"\u003cmodule\u003e\"-is-present;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 5229000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on the home page",
+            "match": {
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.user_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"Publish with PLOS\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Publish with PLOS\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.verify_that_is_present(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WIP"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-03T03:58:25.250Z",
+        "line": 13,
+        "name": "Type of \"Research Communities\" is present",
+        "description": "",
+        "id": "home;type-of-\"\u003cmodule\u003e\"-is-present;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 808000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on the home page",
+            "match": {
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.user_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 73000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"Research Communities\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Research Communities\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.verify_that_is_present(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WIP"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-03T03:58:26.140Z",
+        "line": 14,
+        "name": "Type of \"Open Science\" is present",
+        "description": "",
+        "id": "home;type-of-\"\u003cmodule\u003e\"-is-present;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 576000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on the home page",
+            "match": {
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.user_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 63000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"Open Science\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Open Science\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.verify_that_is_present(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WIP"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-03T03:58:26.790Z",
+        "line": 15,
+        "name": "Type of \"Resources\" is present",
+        "description": "",
+        "id": "home;type-of-\"\u003cmodule\u003e\"-is-present;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 493000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on the home page",
+            "match": {
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.user_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 68000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"Resources\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Resources\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.verify_that_is_present(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WIP"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-03-03T03:58:27.361Z",
+        "line": 16,
+        "name": "Type of \"About PLOS\" is present",
+        "description": "",
+        "id": "home;type-of-\"\u003cmodule\u003e\"-is-present;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 438000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User on the home page",
+            "match": {
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.user_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 54000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Verify that \"About PLOS\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"About PLOS\"",
+                  "offset": 12
+                }
+              ],
+              "location": "com.PLOS.step_definitions.HomeStepDefinition.verify_that_is_present(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@WIP"
+          }
+        ]
+      }
+    ],
+    "name": "Home",
+    "description": "  On the home page, verify that the following type of modules are present.\n  Modules: Publish with PLOS, Research Communities, Open Science, Resources,About PLOS",
+    "id": "home",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/resources/features/PLOS.Page.feature",
+    "tags": []
+  }
+]
